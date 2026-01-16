@@ -7,7 +7,7 @@
     "url": "https://solvice.io"
   },
   "homepage": "https://docs.solvice.io",
-  "repository": "https://github.com/solvice/claude-plugin",
+  "repository": "https://github.com/solvice/solvice-claude-plugin",
   "license": "MIT",
   "keywords": ["solvice", "optimization", "vrp", "routing", "scheduling", "fill", "api"],
   "commands": "./commands/",
