@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "solvice",
-      "source": "../",
+      "source": "./",
       "description": "Solvice API integration plugin for Claude Code - VRP routing and Fill scheduling optimization",
       "version": "1.0.0"
     }
