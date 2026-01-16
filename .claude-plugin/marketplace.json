@@ -1,0 +1,15 @@
+{
+  "name": "solvice",
+  "owner": {
+    "name": "Solvice",
+    "url": "https://solvice.io"
+  },
+  "plugins": [
+    {
+      "name": "solvice",
+      "source": "../",
+      "description": "Solvice API integration plugin for Claude Code - VRP routing and Fill scheduling optimization",
+      "version": "1.0.0"
+    }
+  ]
+}
