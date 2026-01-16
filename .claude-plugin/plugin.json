@@ -12,6 +12,5 @@
   "keywords": ["solvice", "optimization", "vrp", "routing", "scheduling", "fill", "api"],
   "commands": "./commands/",
   "agents": "./agents/",
-  "skills": "./skills/",
-  "mcpServers": "./.mcp.json"
+  "skills": "./skills/"
 }
